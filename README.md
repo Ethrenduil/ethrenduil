@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quentin Vandersteene</h1>
-<h3 align="center">I'm a student at Epitech Lille</h3>
+<h1 align="center">Hi 👋, I'm Ethrenduil</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethrenduil&label=Profile%20views&color=0e75b6&style=flat" alt="ethrenduil" /> </p>
 
